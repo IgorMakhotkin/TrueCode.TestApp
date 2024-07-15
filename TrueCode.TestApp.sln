@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UrlLoader.Producer", "UrlLo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UrlLoader.Consumer", "UrlLoaderWorker\UrlLoader.Consumer.csproj", "{3F364D8D-EF6C-48FE-8E49-8A4D3D51D74B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlRequest", "UrlRequest\UrlRequest.csproj", "{01E76671-86BD-4291-8A5F-1895A65328D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageContract", "MessageContract\MessageContract.csproj", "{207CC18E-2A14-4A0B-9997-1376D2A61395}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{3F364D8D-EF6C-48FE-8E49-8A4D3D51D74B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F364D8D-EF6C-48FE-8E49-8A4D3D51D74B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F364D8D-EF6C-48FE-8E49-8A4D3D51D74B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{01E76671-86BD-4291-8A5F-1895A65328D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{01E76671-86BD-4291-8A5F-1895A65328D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{01E76671-86BD-4291-8A5F-1895A65328D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{01E76671-86BD-4291-8A5F-1895A65328D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{207CC18E-2A14-4A0B-9997-1376D2A61395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207CC18E-2A14-4A0B-9997-1376D2A61395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207CC18E-2A14-4A0B-9997-1376D2A61395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207CC18E-2A14-4A0B-9997-1376D2A61395}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

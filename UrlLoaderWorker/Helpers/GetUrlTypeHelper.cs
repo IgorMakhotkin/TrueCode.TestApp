@@ -1,6 +1,4 @@
-﻿
-
-namespace UrlLoader.Consumer
+﻿namespace UrlLoader.Consumer.Helpers
 {
     public static class GetUrlTypeHelper
     {
@@ -34,7 +32,7 @@ namespace UrlLoader.Consumer
                     else
                     {
                         // Извлечение расширения файла из URL
-                        string extension = System.IO.Path.GetExtension(url).ToLower();
+                        string extension = Path.GetExtension(url).ToLower();
                         return string.IsNullOrEmpty(extension) ? "unknown" : extension;
                     }
                 }

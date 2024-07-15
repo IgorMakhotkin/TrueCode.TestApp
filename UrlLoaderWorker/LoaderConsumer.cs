@@ -1,5 +1,5 @@
 ﻿using MassTransit;
-using UrlRequest;
+using UrlLoader.Consumer.Helpers;
 
 namespace UrlLoader.Consumer
 {

@@ -3,7 +3,7 @@ using PuppeteerSharp;
 using PuppeteerSharp.BrowserData;
 using PuppeteerSharp.Media;
 
-namespace UrlLoader.Consumer
+namespace UrlLoader.Consumer.Helpers
 {
     public static class DownloadUrlHelper
     {

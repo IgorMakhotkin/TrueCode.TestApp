@@ -16,6 +16,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Reference Include="MessageContract">
+      <HintPath>..\MessageContract.dll</HintPath>
+    </Reference>
     <Reference Include="UrlRequest">
       <HintPath>..\UrlRequest.dll</HintPath>
     </Reference>
