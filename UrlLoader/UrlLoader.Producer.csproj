@@ -27,8 +27,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="UrlRequest">
-      <HintPath>..\UrlRequest.dll</HintPath>
+    <Reference Include="MessageContract">
+      <HintPath>..\MessageContract.dll</HintPath>
     </Reference>
   </ItemGroup>
 

@@ -1,10 +1,10 @@
 ﻿using MassTransit;
+using MessageContract;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using System.ComponentModel.DataAnnotations;
 using UrlLoader.Database.Model;
 using UrlLoader.Producer.Database.Repositories;
-using UrlRequest;
 
 
 namespace UrlLoader.Controllers

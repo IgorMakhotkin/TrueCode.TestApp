@@ -1,4 +1,5 @@
 ﻿using MassTransit;
+using MessageContract;
 using UrlLoader.Consumer.Helpers;
 
 namespace UrlLoader.Consumer

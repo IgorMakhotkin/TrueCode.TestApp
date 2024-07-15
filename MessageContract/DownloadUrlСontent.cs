@@ -1,4 +1,4 @@
-﻿namespace UrlRequest
+﻿namespace MessageContract
 {
     public interface DownloadUrlСontent
     {
